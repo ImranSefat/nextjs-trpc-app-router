@@ -30,8 +30,8 @@ This project showcases the integration of Next.js 13, tRPC, Prisma, and Tailwind
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/nextjs-trpc-prisma-tailwind.git`
-2. Navigate to the project directory: `cd nextjs-trpc-prisma-tailwind`
+1. Clone the repository: `git clone https://github.com/ImranSefat/nextjs-trpc-app-router.git`
+2. Navigate to the project directory: `cd app-with-trpc`
 3. Install dependencies: `npm install`
 
 ## Usage
